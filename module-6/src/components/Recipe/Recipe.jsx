@@ -1,4 +1,11 @@
-export function Recipe({ name, time, ingredients, description }) {
+import { useContext } from "react";
+import { SelectedRecipeContext } from "../../context/SelectedRecipeContext";
+
+export function Recipe() {
+    const { name, time, ingredients, description } = useContext(
+        SelectedRecipeContext
+    );
+
     return (
         <>
             <h2>{name}</h2>

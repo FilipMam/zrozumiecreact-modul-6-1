@@ -1,15 +1,10 @@
 import { Recipe } from "../Recipe/Recipe";
 
-export function Article({ name, time, ingredients, description }) {
+export function Article() {
     return (
-        <>
-            <Recipe
-                name={name}
-                time={time}
-                ingredients={ingredients}
-                description={description}
-            />
+        <article>
+            <Recipe />
             <button>Lubię to!</button>
-        </>
+        </article>
     );
 }
