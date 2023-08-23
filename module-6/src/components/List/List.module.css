@@ -1,0 +1,13 @@
+.list {
+    list-style-type: none;
+}
+
+.item {
+    width: 100%;
+}
+
+.button {
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+}
