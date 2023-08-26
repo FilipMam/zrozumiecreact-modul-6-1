@@ -15,6 +15,7 @@ export const recipes = [
         ],
         description: "Smaż ziemniaki. Sos: mieszaj składniki.",
         country: "Hiszpania",
+        img: "https://zrozumiecreact.pl/recipes/patatas-min.jpg",
     },
     {
         id: 2,
@@ -31,6 +32,7 @@ export const recipes = [
         ],
         description: "Ugotuj makaron, dodaj składniki.",
         country: "Włochy",
+        img: "https://zrozumiecreact.pl/recipes/carbonara-min.jpg",
     },
     {
         id: 3,
@@ -51,6 +53,7 @@ export const recipes = [
         ],
         description: "Warzywa w plastrach, piecz 1h.",
         country: "Francja",
+        img: "https://zrozumiecreact.pl/recipes/ratatouille-min.jpg",
     },
     {
         id: 4,
@@ -65,5 +68,6 @@ export const recipes = [
         ],
         description: "Ryż gotuj, formuj, dodaj rybę.",
         country: "Japonia",
+        img: "https://zrozumiecreact.pl/recipes/sushi-min.jpg",
     },
 ];

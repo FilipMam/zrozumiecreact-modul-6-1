@@ -1,0 +1,15 @@
+.img {
+    max-width: 300px;
+    border-radius: 32px;
+    border: solid 3px var(--color-text);
+    margin: 1rem 0;
+}
+
+.list {
+    margin-top: 0.5rem;
+}
+
+.description {
+    margin: 1rem 0;
+    font-style: italic;
+}
