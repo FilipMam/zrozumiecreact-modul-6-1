@@ -13,7 +13,8 @@ export const recipes = [
             "1 łyżka octu winnego",
             "1 łyżeczka cukru",
         ],
-        description: "Smaż ziemniaki. Sos: mieszaj składniki.",
+        description:
+            "Smaż ziemniaki w oliwie, dopraw solą. Przygotuj sos z czosnku, papryki, passaty, octu i cukru. Zaserwuj jako przekąskę.",
         country: "Hiszpania",
         img: "https://zrozumiecreact.pl/recipes/patatas-min.jpg",
     },
@@ -30,7 +31,8 @@ export const recipes = [
             "pieprz",
             "czosnek",
         ],
-        description: "Ugotuj makaron, dodaj składniki.",
+        description:
+            "Ugotuj makaron al dente. Podsmaż boczek z czosnkiem. Dodaj ugotowany makaron i wymieszaj z jajkami i parmezanem.",
         country: "Włochy",
         img: "https://zrozumiecreact.pl/recipes/carbonara-min.jpg",
     },
@@ -51,7 +53,8 @@ export const recipes = [
             "sól",
             "pieprz",
         ],
-        description: "Warzywa w plastrach, piecz 1h.",
+        description:
+            "Pokrój warzywa (bakłażan, cukinia, papryka, pomidory, cebula) i piecz z oliwą oraz ziołami przez 1 godzinę.",
         country: "Francja",
         img: "https://zrozumiecreact.pl/recipes/ratatouille-min.jpg",
     },
@@ -66,7 +69,8 @@ export const recipes = [
             "kawałek świeżego łososia",
             "wasabi",
         ],
-        description: "Ryż gotuj, formuj, dodaj rybę.",
+        description:
+            "Ugotuj ryż, wymieszaj z octem i cukrem. Formuj kulki ryżu, dodaj kawałek łososia na wierzch. Podawaj z wasabi.",
         country: "Japonia",
         img: "https://zrozumiecreact.pl/recipes/sushi-min.jpg",
     },

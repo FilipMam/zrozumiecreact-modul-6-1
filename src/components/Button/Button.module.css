@@ -8,6 +8,10 @@
     border-radius: 4px;
 }
 
+.button:hover {
+    background-color: var(--color-border);
+}
+
 .button.active {
     background-color: var(--color-text);
     color: var(--color-bg);
