@@ -9,6 +9,11 @@
     margin-top: 0.5rem;
 }
 
+.time {
+    display: block;
+    margin: 1rem 0;
+}
+
 .description {
     margin: 1rem 0;
     font-style: italic;
